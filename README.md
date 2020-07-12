@@ -1,4 +1,4 @@
-<img src="./images/banner.svg" alt="Banner image">
+<img src="https://raw.githubusercontent.com/fils/fils/master/images/banner.svg" alt="Banner image">
 
 
 ### TLDR
