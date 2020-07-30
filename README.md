@@ -1,5 +1,12 @@
 <img src="https://raw.githubusercontent.com/fils/fils/master/images/banner.svg" alt="Banner image">
 
+> Douglas Fils 
+> Consortium for Ocean Leadership
+> [ORCID](https://orcid.org/0000-0002-2257-9127)
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2257-9127" href="https://orcid.org/0000-0002-2257-9127" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2257-9127</a></div>
+
+
 
 ### TLDR
 
@@ -36,8 +43,8 @@ aware of open source packages for this.
 
 I've also been fortunate enough to be involved with a group working in 
 the NFS Convergence Accelerator:
-[Urban Flooding OKN](https://www.nsf.gov/od/oia/convergence-accelerator/Award%20Listings/track-a.jsp).  Connecting the digital object space to knowledge graphs is an 
-interest of mine as well.  
+[Urban Flooding OKN](https://www.nsf.gov/od/oia/convergence-accelerator/Award%20Listings/track-a.jsp).  
+Connecting the digital object space to knowledge graphs is an interest of mine as well.  
 
 ### Community
 
