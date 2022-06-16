@@ -17,6 +17,14 @@ I work for the Consortium for Ocean Leadership.  They are headquartered in
 Washington D.C. but I live and work from a small town in Iowa.   Iowa is my 
 home state and I have lived here all my life.  
 
+### Stats
+
+Some auto generated stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  Not sure if they 
+track the private repos though, need to look into that.   For this most part this is just data without context.  :) 
+
+[stats](https://github-readme-stats.vercel.app/api?username=fils&show_icons=true&theme=buefy&hide_rank=true)
+
+
 ### Currently
 
 I've been exploring digital object patterns like 
