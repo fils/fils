@@ -9,12 +9,12 @@
 ### TLDR
 
 I work mostly in geoinformatics.  For me, this tends to be an  intersection of 
-software development, semantics, structured data on the web and web architecture. 
+software development, semantics, data  and web architecture. 
 
 ### About me
 
 I work for the Consortium for Ocean Leadership.  They are headquartered in 
-Washington D.C. but I live and work from a small town in Iowa.   Iowa is my 
+Washington D.C..  However, I live and work from a small town in Iowa, Slater.   Iowa is my 
 home state and I have lived here all my life.  
 
 ### Stats
@@ -43,9 +43,7 @@ so I sometimes wonder about moving to that ecosystem.   If I do, I am really
 impressed with Janus Graph and have thought about doing more there.  
 
 I'm very interested in JSON-LD and applying things like SHACL to data graph work 
-flows and been active in exploring that.   Generating GraphQL interfaces from SHACL 
-shapes is a goal of mine.  This has been done by groups like TopQuadrant, but I am not
-aware of open source packages for this.  
+flows and been active in exploring that.   
 
 I've also been fortunate enough to be involved with a group working in 
 the NFS Convergence Accelerator:
@@ -68,7 +66,10 @@ rural Iowa.  The four most valuable to me include.
 * AGU [ESSI](https://connect.agu.org/essi/home)
 
 I've also had some rewarding time with [CODATA](https://codata.org/) and been very fortunate to interact with the 
-[DDI](https://ddialliance.org/) group through them.  
+[DDI](https://ddialliance.org/) group through them.  I've also had the good fortune to work with the ODIS OIH 
+project.  This project is  supporting discovery and interoperability of existing information systems through the 
+development of a lightweight Ocean Data and Information System (ODIS) architecture and more information 
+can be found at [https://oceaninfohub.org/](https://oceaninfohub.org/).
 
 [https://orcid.org/0000-0002-2257-9127](https://orcid.org/0000-0002-2257-9127)
 
