@@ -73,7 +73,7 @@ can be found at [https://oceaninfohub.org/](https://oceaninfohub.org/).
 ### Where I would like to learn when I get time.
 
 Looking forward to diving into decentralized system more and decentralized ledgers.
-Not really that into DeFi stuff, though I do play a bit there, but more into things like
-self soverign IDs and the like.  Curious how DAOs could be used for governance of
+Not really that into DeFi stuff, though I do play a bit there.  More into things like
+self sovereign IDs and curious how DAOs could be used for governance of
 FAIR implementation networks for example.
 
