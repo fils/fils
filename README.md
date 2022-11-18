@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/fils/fils/master/images/banner.svg" alt="Banner image">
 
-> Douglas Fils 
+> Douglas Fils
 >
-> Consortium for Ocean Leadership
+> Ronin Institute
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2257-9127" href="https://orcid.org/0000-0002-2257-9127" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2257-9127</a></div>
 
@@ -13,14 +13,15 @@ software development, semantics, data  and web architecture.
 
 ### About me
 
-I work for the Consortium for Ocean Leadership.  They are headquartered in 
-Washington D.C..  However, I live and work from a small town in Iowa, Slater.   Iowa is my 
-home state and I have lived here all my life.  
+I am part of the [Ronin Institute](https://ronininstitute.org/about/) now.
+I live and work from Slater, a small town in Iowa.   Iowa is my
+home state and I have lived here all my life and always plan to.
 
 ### Stats
 
 Some auto generated stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  Not sure if they 
-track the private repos though, need to look into that.   For this most part this is just data without context.  :) 
+track the private repos though, need to look into that.
+For this most part this is just data without context, so of no real use.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=fils&show_icons=true&theme=buefy&hide_rank=true)
 
@@ -29,18 +30,14 @@ track the private repos though, need to look into that.   For this most part thi
 
 I've been exploring digital object patterns like 
 RDA's Digital Object Cloud and structured data on the web (schema.org et al).   
-I've been developing [Gleaner](https://gleaner.io/), [Mercantile](https://github.com/earthcubearchitecture-project418/mercantile) 
+I've been developing [Gleaner](https://gleaner.io/) and
+[https://github.com/gleanerio](https://github.com/gleanerio) as well as some
+tools like Mercantile](https://github.com/earthcubearchitecture-project418/mercantile)
 and [GROW](https://github.com/fils/goobjectweb) to support this exploration.  
 
-Mercantile is a means to test  GraphQL for searching graphs.  I'm leveraging the 
-99desgins [gqlgen](https://github.com/99designs/gqlgen) package for this. 
-I've tried to focus on pure GraphQL and not some of the extensions out there that 
-more explicitly connect graphs and GraphQL.   Though I do like some of what DGraph
-and other are doing.  
-
-Though I've working quite a bit with SPARQL I've always enjoyed working in Gremlin, 
-so I sometimes wonder about moving to that ecosystem.   If I do, I am really 
-impressed with Janus Graph and have thought about doing more there.  
+Though I've working quite a bit with SPARQL I've always enjoyed working in Gremlin.
+I really enjoy all sorts of graph ecosystems.  I've been wanting to do something with
+Janus Graph, but tend to star in RDF land.
 
 I'm very interested in JSON-LD and applying things like SHACL to data graph work 
 flows and been active in exploring that.   
@@ -75,14 +72,8 @@ can be found at [https://oceaninfohub.org/](https://oceaninfohub.org/).
 
 ### Where I would like to learn when I get time.
 
-I'm not much a user interface developer.   I spend most of my time with data and 
-back end server side code to work with data.  I have done a bit of work with 
-web components and quite enjoy them.  
-
-So, when I get free time, I enjoy trying
-to explore richer client side tools.   I've not gotten far, so any help or pointers will
-be welcomed. 
-
-* Flutter and hence Dart
-* Web assembly, especially with languages like Rust and Go
+Looking forward to diving into decentralized system more and decentralized ledgers.
+Not really that into DeFi stuff, though I do play a bit there, but more into things like
+self soverign IDs and the like.  Curious how DAOs could be used for governance of
+FAIR implementation networks for example.
 
