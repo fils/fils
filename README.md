@@ -7,9 +7,7 @@
 <table>
 <tr>
 <td>
-
 <a href="https://geocodes.earthcube.org/">NSF EarthCube GeoCODES</a>
-
 </td>
 <td>
 <a href="https://oceaninfohub.org/">UNESCO Ocean InfoHub</a>
