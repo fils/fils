@@ -18,8 +18,6 @@
 </tr>
 </table>
 
-
-
 ### TLDR
 
 I work mostly in geoinformatics.  For me, this tends to be an  intersection of 
@@ -84,7 +82,7 @@ can be found at [https://oceaninfohub.org/](https://oceaninfohub.org/).
 
 [https://orcid.org/0000-0002-2257-9127](https://orcid.org/0000-0002-2257-9127)
 
-### Where I would like to learn when I get time.
+### What I would like to learn when I get time.
 
 Looking forward to diving into decentralized system more and decentralized ledgers.
 Not really that into DeFi stuff, though I do play a bit there.  More into things like
