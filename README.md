@@ -20,8 +20,8 @@
 
 ### TLDR
 
-I work mostly in geoinformatics.  For me, this tends to be an  intersection of 
-software development, semantics, data  and web architecture. 
+I work mostly in geoinformatics.  For me, this tends to be at the intersection of
+software development, semantics, data and web architecture.
 
 ### About me
 
@@ -33,7 +33,7 @@ home state and I have lived here all my life and always plan to.
 
 Some auto generated stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  Not sure if they 
 track the private repos though, need to look into that.
-For this most part this is just data without context, so of no real use.
+For this most part, this is just data without context, so of no real use.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=fils&show_icons=true&theme=buefy&hide_rank=true)
 
@@ -47,12 +47,13 @@ I've been developing [Gleaner](https://gleaner.io/) and
 tools like Mercantile](https://github.com/earthcubearchitecture-project418/mercantile)
 and [GROW](https://github.com/fils/goobjectweb) to support this exploration.  
 
-Though I've working quite a bit with SPARQL I've always enjoyed working in Gremlin.
+Though I've working quite a bit with SPARQL, I've always enjoyed working in Gremlin.
 I really enjoy all sorts of graph ecosystems.  I've been wanting to do something with
-Janus Graph, but tend to star in RDF land.
+Janus Graph, but tend to stay in RDF land.  Curious to watch the adoption of RDFstar and
+its related elements
 
-I'm very interested in JSON-LD and applying things like SHACL to data graph work 
-flows and been active in exploring that.   
+Interested in JSON-LD and applying things like SHACL to data graph work
+flows and have been active in exploring that.
 
 I've also been fortunate enough to be involved with a group working in 
 the NFS Convergence Accelerator:
@@ -85,7 +86,7 @@ can be found at [https://oceaninfohub.org/](https://oceaninfohub.org/).
 ### What I would like to learn when I get time.
 
 Looking forward to diving into decentralized system more and decentralized ledgers.
-Not really that into DeFi stuff, though I do play a bit there.  More into things like
-self sovereign IDs and curious how DAOs could be used for governance of
-FAIR implementation networks for example.
+Not really  into DeFi stuff, though I do play a bit there.  More into things like
+self sovereign IDs and curious how DAOs could be used for the governance of
+FAIR implementation networkss.
 
