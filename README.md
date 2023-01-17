@@ -62,7 +62,7 @@ Connecting the digital object space to knowledge graphs is an interest of mine a
 
 ### Community
 
-I've worked form home for quite some time.   As such, community organizations are
+As a remote working for over a decade, community organizations are
 very important to me. The provide a means for me to connect with my peers from 
 rural Iowa.  The four most valuable to me include.
 
