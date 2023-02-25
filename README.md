@@ -33,7 +33,7 @@ home state and I have lived here all my life and always plan to.
 
 Some auto generated stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  Not sure if they 
 track the private repos though, need to look into that.
-For this most part, this is just data without context, so of no real use.
+For the most part, this is just data without context, so of no real use.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=fils&show_icons=true&theme=buefy&hide_rank=true)
 
