@@ -21,7 +21,7 @@
 ### TLDR
 
 I work mostly in geoinformatics.  For me, this tends to be at the intersection of
-software development, semantics, data and web architecture.  Lately I have focused on structured data on the web and work on [Gleaner.io](https://gleaner.io) and it's application to 
+software development, semantics, data and web architecture.  Lately I have focused on structured data on the web leveraging schema.org and JSON-LD.  This is seen best in the work on [Gleaner.io](https://gleaner.io) and its application to 
 projects like [Ocean InfoHub](https://oceaninfohub.org), [NSF EarthCube GeoCODES and DeCODER](https://geocodes.earthcube.org/), [Internet of Water](https://internetofwater.org/geoconnex/) and others.
 
 ### About me
