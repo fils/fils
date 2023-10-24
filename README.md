@@ -21,7 +21,8 @@
 ### TLDR
 
 I work mostly in geoinformatics.  For me, this tends to be at the intersection of
-software development, semantics, data and web architecture.
+software development, semantics, data and web architecture.  Lately I have focused on structured data on the web and work on [Gleaner.io](https://gleaner.io) and it's application to 
+projects like [Ocean InfoHub](https://oceaninfohub.org) and others.
 
 ### About me
 
