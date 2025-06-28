@@ -12,9 +12,6 @@
 <td>
 <a href="https://oceaninfohub.org/">UNESCO Ocean InfoHub</a>
 </td>
-<td>
-<a href="https://internetofwater.org/geoconnex/">Internet of Water GeoConnex</a>
-</td>
 </tr>
 </table>
 
