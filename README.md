@@ -29,23 +29,6 @@ home state and I have lived here all my life and always plan to.
 
 ### Stats
 
-
-Wakatime weekly stats:
-<!--START_SECTION:waka-->
-
-```txt
-Rust             9 hrs 10 mins   ████████████████▓░░░░░░░░   66.10 %
-Scala            1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Python           1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Markdown         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TOML             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-```
-
-<!--END_SECTION:waka-->
-
-[![Fils' GitHub stats](https://github-readme-stats.vercel.app/api?username=fils&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Some auto generated stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).  Not sure if they 
 track the private repos though, need to look into that.
 For the most part, this is just data without context, so of no real use.
